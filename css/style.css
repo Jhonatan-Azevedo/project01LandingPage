@@ -11,7 +11,7 @@ html, body{
 
 @font-face {
 	font-family: 'open-sans';
-	src: url(../_fonts/OpenSans-Light.ttf);
+	src: url(../fonts/OpenSans-Light.ttf);
 }
 
 .clear{
@@ -49,7 +49,7 @@ html, body{
 	width: 100%;
 	padding: 0 2%;
 	height: 550px;
-	background-image: url(../_img/banner-EA.jpg);
+	background-image: url(../img/banner-EA.jpg);
 	background-size: cover;
 	background-position: center;
 
@@ -204,7 +204,7 @@ html, body{
 	margin-left: -30px;
 	width: 60px;
 	height: 60px;
-	background-image: url('../_img/arrow.png');
+	background-image: url('../img/arrow.png');
 	background-size: 100% 100%;
 
 }
